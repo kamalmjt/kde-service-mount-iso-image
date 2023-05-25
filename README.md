@@ -9,7 +9,7 @@ Dependencies
 
 Install
 -------
-cd /tmp/    
+``cd /tmp/    
 wget https://github.com/kamalmjt/kde-service-mount-iso-image/archive/refs/heads/main.zip -O /tmp/kde-service-mount-iso-image-main.zip  
 unzip /tmp/kde-service-mount-iso-image-main.zip  
 mkdir ~/bin/  
