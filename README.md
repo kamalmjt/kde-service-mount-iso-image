@@ -1,7 +1,7 @@
 # kde-service-mount-iso-image
 KDE Services menu for mount ISOS and DISK IMG
 
-![Install instruccions.]
+#Install instruccions.
 `
 cd /tmp/ \
 wget https://github.com/kamalmjt/kde-service-mount-iso-image/archive/refs/heads/main.zip -O /tmp/kde-service-mount-iso-image-main.zip  
